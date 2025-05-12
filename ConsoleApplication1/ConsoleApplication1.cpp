@@ -9,6 +9,7 @@ int main()
     std::cout << "Hello World!\n";
 
     int b = 12; // Changes from first repo
+    int C = 14; // Changes from first repo
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
