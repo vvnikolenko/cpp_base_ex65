@@ -3,6 +3,7 @@
 
 #include <iostream>
 #include <cmath>  // Changes from second repo
+#include <string>  // Changes from second repo
 
 int main()
 {
