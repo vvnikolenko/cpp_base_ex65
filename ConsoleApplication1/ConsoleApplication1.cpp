@@ -2,6 +2,7 @@
 //
 
 #include <iostream>
+#include <cmath>  // Changes from second repo
 
 int main()
 {
