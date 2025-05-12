@@ -12,6 +12,7 @@ int main()
     int b = 12; // Changes from first repo
     int C = 14; // Changes from first repo
     int d = 77; // Changes from first repo
+    int X = 24; // Changes from second repo
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
